@@ -1,0 +1,87 @@
+  
+.footer {
+    width: 100%;
+    height: 25vw;
+    background-color: #000a23;
+    display: flex;
+    justify-content: center;
+    clear: both;
+  }
+  
+  li, ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .contenedor1 {
+    width: 30%;
+    margin: 2.667vw;
+   
+  }
+
+  .contenedor2 {
+    width: 30%;
+    margin: 2.667vw;;
+  
+  }
+  .contenedor3 {
+    width: 30%;
+    margin: 2.667vw;
+    margin-top: 3vw;
+   
+  }
+  .contenedor4 {
+    width: 30%;
+    margin: 2.667vw;
+  }
+  
+  .item_1 {
+    color: #ffffff;
+    margin-top: 1.333vw;
+  }
+  .img_cont {
+    width: 2.667vw;
+    margin-right: 1.333vw;
+    filter: invert(80%);
+  }
+  
+  .contenedor li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: lighter;
+  }
+  .btn_consulta {
+    color: #99804e;
+    text-decoration: underline;
+  }
+  .btn_consulta:hover{
+    color: #d99d24;
+  }
+  .logo2{
+    margin: 0.667vw;
+  }
+  .logo2:hover{
+    transform: scale(1.2);
+    
+  }
+  .linea_footer{
+    width: 80%;
+    border-top: 0.267vw solid  #99804e;
+    margin: auto;
+  }
+  .text_footer{
+    color: #ffff;
+    text-align: center;
+    margin-top: 1.333vw;
+    font-weight: lighter;}
+
+    .social{
+        width: 4vh;
+        margin: 10px;
+    }
+    
+  
+    
+  
+  
